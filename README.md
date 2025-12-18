@@ -20,9 +20,3 @@
 - Hides the create button in the form view
 - Generates PDF reports of records
 
-## Installation
-
-1. Clone the repo into your Odoo `addons` folder:
-
-```bash
-git clone https://github.com/yourusername/Digizilla.git
